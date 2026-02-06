@@ -1,5 +1,7 @@
 # Meridian Travel 🌍
 
+[**🚀 Live Demo**](https://meridian-travel-69ym.vercel.app/)
+
 A high-fidelity travel booking platform built with **Next.js 16**, **Tailwind CSS**, and **Leaflet**. This project demonstrates "Commercial Awareness" in frontend engineering by implementing dynamic pricing, geographically-aware discovery, and complex checkout logic.
 
 ![Meridian Travel Demo](/public/images/dashboard-preview.png)
