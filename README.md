@@ -4,6 +4,7 @@
 
 A high-fidelity travel booking platform built with **Next.js 16**, **Tailwind CSS**, and **Leaflet**. This project demonstrates "Commercial Awareness" in frontend engineering by implementing dynamic pricing, geographically-aware discovery, and complex checkout logic.
 
+![Meridian Travel Demo](public/images/demo-preview.webp)
 
 ## ✨ Key Features
 
