@@ -1,0 +1,381 @@
+[
+  {
+    "voyage_id": "CR-2024-ALK-001",
+    "cruise_line": "Meridian Expeditions",
+    "ship_name": "MS Aurora",
+    "title": "Glaciers of Prince William Sound",
+    "region": "Alaska",
+    "departure_port": "Anchorage, Alaska",
+    "destination_port": "Vancouver, Canada",
+    "duration_nights": 7,
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-22",
+    "base_price_usd": 1299,
+    "rating": 4.9,
+    "itinerary": [
+      "Anchorage",
+      "Hubbard Glacier",
+      "Skagway",
+      "Juneau",
+      "Ketchikan",
+      "Inside Passage",
+      "Vancouver"
+    ],
+    "coordinates": {
+      "lat": 61.2181,
+      "lng": -149.9003
+    }
+  },
+  {
+    "voyage_id": "CR-2024-MED-042",
+    "cruise_line": "Meridian Luxury",
+    "ship_name": "MS Riviera",
+    "title": "Mediterranean Romance",
+    "region": "Europe",
+    "departure_port": "Barcelona, Spain",
+    "destination_port": "Rome, Italy",
+    "duration_nights": 10,
+    "start_date": "2024-08-10",
+    "end_date": "2024-08-20",
+    "base_price_usd": 2499,
+    "rating": 4.8,
+    "itinerary": [
+      "Barcelona",
+      "Marseille",
+      "Monte Carlo",
+      "Florence",
+      "Rome"
+    ],
+    "coordinates": {
+      "lat": 41.3851,
+      "lng": 2.1734
+    }
+  },
+  {
+    "voyage_id": "CR-2024-CAR-108",
+    "cruise_line": "Meridian Sun",
+    "ship_name": "MS Solstice",
+    "title": "Eastern Caribbean Escape",
+    "region": "Caribbean",
+    "departure_port": "Miami, Florida",
+    "destination_port": "Miami, Florida",
+    "duration_nights": 5,
+    "start_date": "2024-11-05",
+    "end_date": "2024-11-10",
+    "base_price_usd": 999,
+    "rating": 4.7,
+    "itinerary": [
+      "Miami",
+      "Nassau",
+      "St. Thomas",
+      "St. Maarten",
+      "Miami"
+    ],
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    }
+  },
+  {
+    "voyage_id": "CR-2024-NOR-099",
+    "cruise_line": "Meridian Expeditions",
+    "ship_name": "MS Aurora",
+    "title": "Fjords of Legend",
+    "region": "Europe",
+    "departure_port": "Bergen, Norway",
+    "destination_port": "Oslo, Norway",
+    "duration_nights": 8,
+    "start_date": "2024-07-01",
+    "end_date": "2024-07-09",
+    "base_price_usd": 1899,
+    "rating": 4.9,
+    "itinerary": [
+      "Bergen",
+      "Geirangerfjord",
+      "Ålesund",
+      "Flam",
+      "Oslo"
+    ],
+    "coordinates": {
+      "lat": 60.3913,
+      "lng": 5.3221
+    }
+  },
+  {
+    "voyage_id": "CR-2024-JPN-202",
+    "cruise_line": "Meridian Harmony",
+    "ship_name": "MS Zen",
+    "title": "Grand Japan & South Korea",
+    "region": "Asia",
+    "departure_port": "Tokyo, Japan",
+    "destination_port": "Tokyo, Japan",
+    "duration_nights": 14,
+    "start_date": "2025-03-20",
+    "end_date": "2025-04-03",
+    "base_price_usd": 3299,
+    "rating": 5.0,
+    "itinerary": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Jeju Island",
+      "Nagasaki",
+      "Tokyo"
+    ],
+    "coordinates": {
+      "lat": 35.6762,
+      "lng": 139.6503
+    }
+  },
+  {
+    "voyage_id": "CR-2024-ANT-333",
+    "cruise_line": "Meridian Ice Class",
+    "ship_name": "MS Polar Star",
+    "title": "Antarctic Peninsula Expedition",
+    "region": "Antarctica",
+    "departure_port": "Ushuaia, Argentina",
+    "destination_port": "Ushuaia, Argentina",
+    "duration_nights": 12,
+    "start_date": "2025-01-10",
+    "end_date": "2025-01-22",
+    "base_price_usd": 5999,
+    "rating": 4.9,
+    "itinerary": [
+      "Ushuaia",
+      "Drake Passage",
+      "South Shetland Islands",
+      "Antarctic Peninsula",
+      "Ushuaia"
+    ],
+    "coordinates": {
+      "lat": -54.8019,
+      "lng": -68.3030
+    }
+  },
+  {
+    "voyage_id": "CR-2024-MED-055",
+    "cruise_line": "Meridian Luxury",
+    "ship_name": "MS Riviera",
+    "title": "Greek Isles Odyssey",
+    "region": "Europe",
+    "departure_port": "Athens, Greece",
+    "destination_port": "Athens, Greece",
+    "duration_nights": 7,
+    "start_date": "2024-09-05",
+    "end_date": "2024-09-12",
+    "base_price_usd": 1699,
+    "rating": 4.8,
+    "itinerary": [
+      "Athens",
+      "Santorini",
+      "Mykonos",
+      "Rhodes",
+      "Athens"
+    ],
+    "coordinates": {
+      "lat": 37.9838,
+      "lng": 23.7275
+    }
+  },
+  {
+    "voyage_id": "CR-2024-BAL-012",
+    "cruise_line": "Meridian Expeditions",
+    "ship_name": "MS Aurora",
+    "title": "Baltic Capitals & St. Petersburg",
+    "region": "Europe",
+    "departure_port": "Copenhagen, Denmark",
+    "destination_port": "Stockholm, Sweden",
+    "duration_nights": 11,
+    "start_date": "2024-07-15",
+    "end_date": "2024-07-26",
+    "base_price_usd": 2199,
+    "rating": 4.7,
+    "itinerary": [
+      "Copenhagen",
+      "Tallinn",
+      "St. Petersburg",
+      "Helsinki",
+      "Stockholm"
+    ],
+    "coordinates": {
+      "lat": 55.6761,
+      "lng": 12.5683
+    }
+  },
+  {
+    "voyage_id": "CR-2024-PAC-003",
+    "cruise_line": "Meridian Sun",
+    "ship_name": "MS Solstice",
+    "title": "Tahitian Paradise",
+    "region": "South Pacific",
+    "departure_port": "Papeete, Tahiti",
+    "destination_port": "Papeete, Tahiti",
+    "duration_nights": 10,
+    "start_date": "2024-11-20",
+    "end_date": "2024-11-30",
+    "base_price_usd": 2899,
+    "rating": 4.9,
+    "itinerary": [
+      "Papeete",
+      "Moorea",
+      "Bora Bora",
+      "Raiatea",
+      "Papeete"
+    ],
+    "coordinates": {
+      "lat": -17.5516,
+      "lng": -149.5585
+    }
+  },
+  {
+    "voyage_id": "CR-2025-AUS-088",
+    "cruise_line": "Meridian Harmony",
+    "ship_name": "MS Zen",
+    "title": "Great Barrier Reef Discovery",
+    "region": "Australia",
+    "departure_port": "Sydney, Australia",
+    "destination_port": "Cairns, Australia",
+    "duration_nights": 12,
+    "start_date": "2025-01-05",
+    "end_date": "2025-01-17",
+    "base_price_usd": 2599,
+    "rating": 4.6,
+    "itinerary": [
+      "Sydney",
+      "Brisbane",
+      "Airlie Beach",
+      "Cairns",
+      "Port Douglas"
+    ],
+    "coordinates": {
+      "lat": -33.8688,
+      "lng": 151.2093
+    }
+  },
+  {
+    "voyage_id": "CR-2024-ICE-007",
+    "cruise_line": "Meridian Expeditions",
+    "ship_name": "MS Aurora",
+    "title": "Icelandic Circumnavigation",
+    "region": "Scandinavia",
+    "departure_port": "Reykjavik, Iceland",
+    "destination_port": "Reykjavik, Iceland",
+    "duration_nights": 9,
+    "start_date": "2024-06-25",
+    "end_date": "2024-07-04",
+    "base_price_usd": 2399,
+    "rating": 4.8,
+    "itinerary": [
+      "Reykjavik",
+      "Isafjordur",
+      "Akureyri",
+      "Seydisfjordur",
+      "Reykjavik"
+    ],
+    "coordinates": {
+      "lat": 64.1466,
+      "lng": -21.9426
+    }
+  },
+  {
+    "voyage_id": "CR-2024-VIE-045",
+    "cruise_line": "Meridian Harmony",
+    "ship_name": "MS Zen",
+    "title": "Vietnam & The Mekong",
+    "region": "Asia",
+    "departure_port": "Ho Chi Minh City, Vietnam",
+    "destination_port": "Siem Reap, Cambodia",
+    "duration_nights": 14,
+    "start_date": "2025-02-10",
+    "end_date": "2025-02-24",
+    "base_price_usd": 3499,
+    "rating": 5.0,
+    "itinerary": [
+      "Ho Chi Minh City",
+      "Cai Be",
+      "Phnom Penh",
+      "Kampong Cham",
+      "Siem Reap"
+    ],
+    "coordinates": {
+      "lat": 10.8231,
+      "lng": 106.6297
+    }
+  },
+  {
+    "voyage_id": "CR-2024-HAW-099",
+    "cruise_line": "Meridian Sun",
+    "ship_name": "MS Solstice",
+    "title": "Hawaiian Islands Hopper",
+    "region": "Hawaii",
+    "departure_port": "Honolulu, Hawaii",
+    "destination_port": "Honolulu, Hawaii",
+    "duration_nights": 7,
+    "start_date": "2024-12-15",
+    "end_date": "2024-12-22",
+    "base_price_usd": 1999,
+    "rating": 4.7,
+    "itinerary": [
+      "Honolulu",
+      "Maui",
+      "Hilo",
+      "Kona",
+      "Kauai",
+      "Honolulu"
+    ],
+    "coordinates": {
+      "lat": 21.3069,
+      "lng": -157.8583
+    }
+  },
+  {
+    "voyage_id": "CR-2025-ARC-001",
+    "cruise_line": "Meridian Ice Class",
+    "ship_name": "MS Polar Star",
+    "title": "Svalbard & The High Arctic",
+    "region": "Arctic",
+    "departure_port": "Longyearbyen, Svalbard",
+    "destination_port": "Longyearbyen, Svalbard",
+    "duration_nights": 10,
+    "start_date": "2025-06-01",
+    "end_date": "2025-06-11",
+    "base_price_usd": 6999,
+    "rating": 4.9,
+    "itinerary": [
+      "Longyearbyen",
+      "Ny-Ålesund",
+      "Pack Ice Edge",
+      "Barentsburg",
+      "Longyearbyen"
+    ],
+    "coordinates": {
+      "lat": 78.2232,
+      "lng": 15.6267
+    }
+  },
+  {
+    "voyage_id": "CR-2024-MEX-023",
+    "cruise_line": "Meridian Sun",
+    "ship_name": "MS Solstice",
+    "title": "Mexican Riviera",
+    "region": "Mexico",
+    "departure_port": "Los Angeles, California",
+    "destination_port": "Los Angeles, California",
+    "duration_nights": 7,
+    "start_date": "2024-10-10",
+    "end_date": "2024-10-17",
+    "base_price_usd": 899,
+    "rating": 4.5,
+    "itinerary": [
+      "Los Angeles",
+      "Cabo San Lucas",
+      "Mazatlan",
+      "Puerto Vallarta",
+      "Los Angeles"
+    ],
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    }
+  }
+]
